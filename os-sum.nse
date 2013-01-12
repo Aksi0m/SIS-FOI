@@ -2,6 +2,12 @@ description= [[
 Skripta skenira određene hostove te vrati informaciju o tome koliko uređaja koristi koji operativni sustav.
 Skripta služi kao primjer kako skenirati sa određenim host pravilom te pokazuje kako koristiti nmap.registry koji može služiti i za komunikaciju između različitih skripti.
 NAPOMENA: moglo se koristiti i postrule kako bi tek na kraju dobili konacni rezltat, a ne nakon svakog skeniranog hosta.
+
+Mentored under:
+--FOI OSS--
+-Faculty of Organisation and Informatics  - Open Systems and Security -
+http://security.foi.hr/wiki/index.php/Glavna_stranica
+Tonimir Kišasondi
 ]]
 
 ---
